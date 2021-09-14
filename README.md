@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://fb.com/sajedulli3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajedulli3" height="30" width="40" /></a>
 <a href="https://instagram.com/i.know.u.r.ugly.but_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.know.u.r.ugly.but_i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucs9rqencc5keroyzeyfoshq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucs9rqencc5keroyzeyfoshq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCs9RqENCc5keROyzeYFoShQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCs9RqENCc5keROyzeYFoShQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
